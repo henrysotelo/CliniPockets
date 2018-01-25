@@ -1,2 +1,2 @@
-var nombre = "Hola Henry usando Atom";
+var nombre = "Hola Henry usando Atom.";
 alert(nombre);
